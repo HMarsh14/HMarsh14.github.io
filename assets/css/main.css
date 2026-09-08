@@ -2633,9 +2633,9 @@ input, select, textarea {
 			}
 
 		.image.main {
-			max-height: 450px; /* Adjust this number until it feels right */
+			max-height: 350px;
     		object-fit: cover;
-    		object-position: top; /* Keeps the important top prompt visible */
+    		object-position: top;
     		border-radius: 8px;
     		box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 		}
