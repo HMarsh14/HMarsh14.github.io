@@ -2633,7 +2633,7 @@ input, select, textarea {
 			}
 
 		.image.main {
-			max-height: 300px;
+			max-height: 500px;
     		object-fit: cover;
     		object-position: top;
     		border-radius: 8px;
